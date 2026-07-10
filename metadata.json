@@ -1,0 +1,6 @@
+{
+  "name": "PC Cleaner & Optimizer",
+  "description": "Futuristic cyberpunk-themed PC cleaner and system optimizer dashboard with an interactive diagnostic suite and direct Python desktop code exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
